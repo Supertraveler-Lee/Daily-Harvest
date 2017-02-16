@@ -14,3 +14,8 @@
 * 定位
 * `float`与`position:absolute`的比较
 * `inline-box`、`line-box`的概念
+
+##2017 2-16
+* 语义化、DTD（文档类型定义）、标准以及混杂模式
+* 浏览器运行原理
+* css选择器深入与优化
