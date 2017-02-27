@@ -1,3 +1,3 @@
 ##2017 02-27
-* CSS reset和Normalize.css
+* `CSS reset`和`Normalize.css`
 * Bootstrap
