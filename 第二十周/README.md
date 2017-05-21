@@ -9,3 +9,12 @@
 
 ## 2017 05-18
 * js-ife10
+
+## 2017 05-19
+* person blog build
+
+## 2017 05-20
+* theme next 
+
+## 2017 05-21
+* js-ife11
