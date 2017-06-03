@@ -10,3 +10,9 @@
 ## 2017 06-01
 *  improve js-ife13
 
+## 2017 06-02
+*  improve js-ife13
+
+## 2017 06-03
+*  finish js-ife13
+
