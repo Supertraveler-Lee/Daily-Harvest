@@ -6,3 +6,9 @@
 
 ## 2017 06-28
 * learn jQuery （DOM）
+
+## 2017 06-29
+* learn jQuery （Ajax）
+
+
+
