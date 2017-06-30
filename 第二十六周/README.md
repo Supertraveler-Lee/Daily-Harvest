@@ -10,5 +10,8 @@
 ## 2017 06-29
 * learn jQuery （Ajax）
 
+## 2017 06-30
+* learn jQuery （Ajax）
+
 
 
