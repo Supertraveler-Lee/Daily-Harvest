@@ -13,5 +13,8 @@
 ## 2017 06-30
 * learn jQuery （Ajax）
 
+## 2017 07-01
+* learn jQuery （插件原理和编写插件）
+
 
 
