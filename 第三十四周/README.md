@@ -3,3 +3,6 @@
 
 ## 2017 08-22
 - start vim
+
+## 2017 08-23
+- learn vue.js
